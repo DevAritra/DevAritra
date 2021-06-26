@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm DevAritra
 #### I am a developer
-![I am a developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a developer](https://github.com/DevAritra/DevAritra/blob/main/GIthub%20banner.png)
 
 ![Profile views](https://gpvc.arturio.dev/DevAritra) ![GitHub followers](https://img.shields.io/github/followers/DevAritra?style=social)
  
