@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm DevAritra
-#### I am a developer
+#### I am a Android developer
 ![I am a developer](https://github.com/DevAritra/DevAritra/blob/main/Github%20banner2.png)
 
 ![Profile views](https://gpvc.arturio.dev/DevAritra) ![GitHub followers](https://img.shields.io/github/followers/DevAritra?style=social)
